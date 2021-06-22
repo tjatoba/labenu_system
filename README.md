@@ -4,9 +4,10 @@
 Criar um sistema que represente o básico de uma organização de ensino.
 
 ## Desenvolvedores
-Executado em "Remote Pair Programming" por:
-- [Silvio Viana](https://github.com/milenacacau)
+Executado por:
 - [Thiago Jatobá](https://github.com/tjatoba)
+Supervisão e revisão de códigos:
+- [Silvio Viana](https://github.com/milenacacau)
 
 ## Funcionalidades
 - Criar estudante;
