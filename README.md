@@ -6,7 +6,7 @@ Criar um sistema que represente o básico de uma organização de ensino.
 ## Desenvolvedores
 Executado por:
 - [Thiago Jatobá](https://github.com/tjatoba)
-</br>Supervisão e revisão de códigos:
+*Supervisão e revisão de códigos:
 - [Silvio Viana](https://github.com/milenacacau)
 
 ## Funcionalidades
