@@ -40,9 +40,10 @@ Executado por:
 Create a system that controls elements of an educational institution.
 
 ## Developers
-Performed in "Remote Pair Programming" by:
-- [Silvio Viana](https://github.com/milenacacau)
+Performed by:
 - [Thiago Jatobá](https://github.com/tjatoba)
+<br><br>*Supervisor and code reviewer:*
+- [Silvio Viana](https://github.com/milenacacau)
 
 ## Functionalities
 - Create student;
